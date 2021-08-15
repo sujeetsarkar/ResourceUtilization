@@ -1,0 +1,8 @@
+h1 {
+    text-align: center;
+}
+
+.Chart-display {
+    display: flex;
+    margin-bottom: 100px;
+}
